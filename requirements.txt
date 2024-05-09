@@ -1,3 +1,5 @@
+#Depedency for python
+
 flask==2.1.1
 flask_cors==3.0.10
 mysql-connector-python==8.0.23
